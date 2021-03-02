@@ -17,7 +17,7 @@ yarn test
 
 ## Authors
 
-**Andre Silva** [andreswebs](https://github.com/andreswebs)
+**Andre Silva** - @[andreswebs](https://github.com/andreswebs)
 
 
 ## License
