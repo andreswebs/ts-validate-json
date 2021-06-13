@@ -13,7 +13,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '15.x'
-    - run: yarn install
-    - run: yarn run audit-ci
-    - run: yarn run build
-    - run: yarn run test
+    - run: npm install
+    - run: npm run audit-ci
+    - run: npm run build
+    - run: npm run test
