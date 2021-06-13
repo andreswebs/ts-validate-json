@@ -2,16 +2,17 @@
 
 Example JSON validation using [ajv](https://github.com/ajv-validator/ajv).
 
+
 ## Install dependencies
 
 ```sh
-yarn install
+npm install
 ```
 
 ## Run the test
 
 ```
-yarn test
+npm run test
 ```
 
 
