@@ -14,13 +14,13 @@
     "audit-ci": "npx audit-ci"
   },
   "devDependencies": {
-    "@types/chai": "4.3.4",
+    "@types/chai": "4.3.11",
     "@types/mocha": "10.0.0",
     "@types/node": "18.11.9",
     "@typescript-eslint/eslint-plugin": "5.44.0",
     "@typescript-eslint/parser": "5.44.0",
     "audit-ci": "6.3.0",
-    "chai": "4.3.7",
+    "chai": "4.4.0",
     "eslint": "8.28.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
